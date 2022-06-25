@@ -23,7 +23,6 @@ def banner():
 	           Version : 1.01
 	{re}Subscribe Termux Professor on Youtube
 	{cy}www.youtube.com/c/TermuxProfessorYT
-	""")
 banner()
 print(gr+"[+] Installing requierments ...")
 os.system('python3 -m pip install telethon')
