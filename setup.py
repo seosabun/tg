@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #!/bin/env python3
 # code by : Termux Professor
 
